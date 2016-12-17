@@ -1,2 +1,4 @@
 # Hellow-Worldie
-some text
+Martin prøver lige at lave det her git
+
+
